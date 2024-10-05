@@ -13,10 +13,11 @@
     max-width : 50%;
     bottom: 10%;
     left: 6vw;
+    animation: fadeIn 3s;
 }
 
 .header-contents h2 {
-    font-weight: 500;
+    font-weight: 700;
     color: white;
     font-size: max(4.5vw,22px);
 }
@@ -24,7 +25,8 @@
 .header-contents p {
     color: white;
     font-size: 1vw;
-    margin-bottom: 3vh
+    margin-bottom: 3vh;
+    font-weight: 500;
 }
 .header-contents button {
     font-weight: 500;
